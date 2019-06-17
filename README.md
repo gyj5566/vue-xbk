@@ -69,16 +69,16 @@ npm run dev
 
 ### 登录注册页
 
-<img src="https://github.com/gyj5566/vue-xbk/tree/master/星巴克/client/screenshots/login.jpg" width="365" height="619"/>
+<img src="https://github.com/gyj5566/vue-xbk/blob/master/星巴克/client/screenshots/login.jpg" width="365" height="619"/>
 
 
 ### 提交申请页
 
-<img src="https://github.com/gyj5566/vue-xbk/tree/master/星巴克/client/screenshots/sq.png" width="365" height="619"/> <img src="https://github.com/gyj5566/vue-xbk/tree/master/星巴克/client/screenshots/sq2.png" width="365" height="619"/>
+<img src="https://github.com/gyj5566/vue-xbk/blob/master/星巴克/client/screenshots/sq.png" width="365" height="619"/> <img src="https://github.com/gyj5566/vue-xbk/blob/master/星巴克/client/screenshots/sq2.png" width="365" height="619"/>
 
 ### 列表主页
 
-<img src="https://github.com/gyj5566/vue-xbk/tree/master/星巴克/client/screenshots/index.png" width="365" height="619"/> <img src="https://github.com/gyj5566/vue-xbk/tree/master/星巴克/client/screenshots/dialog.png" width="365" height="619"/>
+<img src="https://github.com/gyj5566/vue-xbk/blob/master/星巴克/client/screenshots/index.png" width="365" height="619"/> <img src="https://github.com/gyj5566/vue-xbk/blob/master/星巴克/client/screenshots/dialog.png" width="365" height="619"/>
 
 
 # 项目布局
